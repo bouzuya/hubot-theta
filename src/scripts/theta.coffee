@@ -2,7 +2,8 @@
 #   A Hubot script to capture image data using RICOH THETA
 #
 # Configuration:
-#   None
+#   HUBOT_SLACK_CHANNEL_ID
+#   HUBOT_SLACK_TOKEN
 #
 # Commands:
 #   hubot theta - capture image data using RICOH THETA
