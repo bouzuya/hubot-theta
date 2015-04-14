@@ -1,7 +1,7 @@
 {
   "name": "hubot-theta",
   "description": "A Hubot script to capture image data using RICOH THETA",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "name": "bouzuya",
     "email": "m@bouzuya.net",
